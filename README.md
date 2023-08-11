@@ -2,9 +2,11 @@
 
 **PREDICTING WHETHER INDIVIDUALS SHOUD RECEIVE H1N1 VACCINE**
 
+![h1n1](https://github.com/MutaiCaren/Phase_3_Project/assets/102576758/45aef937-686d-49cb-9496-23ad9e601efc)
+
 **Overview**
 
-This project"s aim is to build a model that predicts individuals' response to vaccines based on how they reacted to the H1N1 vaccine in 2010. It will use the several feature variables provided to establish the connection between them and the target variable H1N1 vaccine. The dataset used for this project was ontained from DrivenData and contains information on individual's characteristics ranging from level of concern to behaviour in their homes and large gatherings. The project covers the following sections: Business Understanding Problem Statement Objectives Metrics of Success Data Understanding Data Preparation Exploratory Data Analysis Feature Engineering Modeling Feature Selection Hyperparameter Tuning Conclusion Recommendation for Future Steps
+This project's aim is to build a model that predicts individuals' response to vaccines based on how they reacted to the H1N1 vaccine in 2010. It will use the several feature variables provided to establish the connection between them and the target variable H1N1 vaccine. The dataset used for this project was ontained from DrivenData and contains information on individual's characteristics ranging from level of concern to behaviour in their homes and large gatherings. The project covers the following sections: Business Understanding Problem Statement Objectives Metrics of Success Data Understanding Data Preparation Exploratory Data Analysis Feature Engineering Modeling Feature Selection Hyperparameter Tuning Conclusion Recommendation for Future Steps
 
 **Introduction**
 

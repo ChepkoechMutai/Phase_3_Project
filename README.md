@@ -2,7 +2,6 @@
 
 **PREDICTING WHETHER INDIVIDUALS SHOUD RECEIVE H1N1 VACCINE**
 
-![h1n1](https://github.com/MutaiCaren/Phase_3_Project/assets/102576758/45aef937-686d-49cb-9496-23ad9e601efc)
 
 **Overview**
 
@@ -29,6 +28,7 @@ Accurately predict the general response of individuals to a new vaccine
 Build a classification model that accurately predicts the response of individuals to new vaccines and provides actionable insights on how to reduce the spread of contagious infections.
 
 **Metric of Success**
+
 The final model will be considered a success if it has an accuracy and f1 score of not less 75%. The goal is to make as accurate as possible predictions, that is why the choice of success metrics is the accuracy score and f1 score.
 
 **Data Understanding**
@@ -60,6 +60,4 @@ Seeing as to how the model was performing poorly at first continously, in the fu
 
 From evaluating the distribution of H1N1 vaccine, it was established that only around 20% of the individuals had taken the vaccine. The public health organization in charge should look deeper into the reasons behind people not wanting to take the vaccine. It could be that they are not concerned enough, or do not have enough knowledge because it was established during EDA that with increase in levels of concern and knowledge about the vaccine by individuals, the higher the chances were of them taking the vaccine.
 
-**Non Technical Presentation**
 
-To access slides,click this:phase 3 slides

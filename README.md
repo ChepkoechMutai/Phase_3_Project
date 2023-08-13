@@ -22,6 +22,7 @@ The goal of this project is to build a model that can predict the response of in
 **Objectives**
 
 **Main Objective**
+
 The main objective of this project is to build a model that will predict the response of individuals to a newly introduced vaccine that is H1N1 vaccine so it can lay a foundation for what direction of the research the health sector should take.
 
 **Specific Objective**

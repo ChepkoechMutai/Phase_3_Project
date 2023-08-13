@@ -1,11 +1,11 @@
 # Phase_3_Project
 
-**PREDICTING WHETHER INDIVIDUALS SHOUD RECEIVE H1N1 VACCINE**
+**PREDICTING WHETHER INDIVIDUALS SHOUlD RECEIVE H1N1 VACCINE**
 
 
 **Overview**
 
-This project's aim is to build a model that predicts individuals' response to vaccines based on how they reacted to the H1N1 vaccine in 2010. It will use the several feature variables provided to establish the connection between them and the target variable H1N1 vaccine. The dataset used for this project was ontained from DrivenData and contains information on individual's characteristics ranging from level of concern to behaviour in their homes and large gatherings. The project covers the following sections: Business Understanding Problem Statement Objectives Metrics of Success Data Understanding Data Preparation Exploratory Data Analysis Feature Engineering Modeling Feature Selection Hyperparameter Tuning Conclusion Recommendation for Future Steps
+This project's aim is to build a model that predicts individuals' response to vaccines based on how they reacted to the H1N1 vaccine in 2010. It will use the several feature variables provided to establish the connection between them and the target variable H1N1 vaccine. The dataset used for this project was ontained from DrivenData and contains information on individual's characteristics ranging from level of concern to behaviour in their homes and large gatherings. The project covers the following sections: Business Understanding,Problem Statement,Objectives,Metrics of Success,Data Understanding,Data Preparation,Exploratory Data Analysis,Feature Engineering,Modeling,Feature Selection,Hyperparameter Tuning,Conclusion and Recommendation for Future Steps
 
 **Introduction**
 
@@ -20,6 +20,11 @@ Vaccination has become a key public health measure that is used to fight and in 
 The goal of this project is to build a model that can predict the response of individuals to a vaccine based on certain features, such as age, sex, health status, and their knowledge on H1N1 vaccine. This information can help healthcare professionals make informed decisions about who should receive the vaccine and how to best manage its administration.
 
 **Objectives**
+
+**Main Objective**
+The main objective of this project is to build a model that will predict the response of individuals to a newly introduced vaccine that is H1N1 vaccine so it can lay a foundation for what direction of the research the health sector should take.
+
+**Specific Objective**
 
 Identify which factors affect individuals' response to vaccines
 
@@ -59,5 +64,7 @@ Surveys like the one that led to getting the dataset used in this project are no
 Seeing as to how the model was performing poorly at first continously, in the future, the data preprocessing processes need to be improved.
 
 From evaluating the distribution of H1N1 vaccine, it was established that only around 20% of the individuals had taken the vaccine. The public health organization in charge should look deeper into the reasons behind people not wanting to take the vaccine. It could be that they are not concerned enough, or do not have enough knowledge because it was established during EDA that with increase in levels of concern and knowledge about the vaccine by individuals, the higher the chances were of them taking the vaccine.
+
+
 
 

@@ -1,6 +1,6 @@
 # Phase_3_Project
 
-**PREDICTING WHETHER INDIVIDUALS SHOUlD RECEIVE H1N1 VACCINE**
+**PREDICTING WHETHER INDIVIDUALS SHOULD RECEIVE H1N1 VACCINE**
 
 
 **Overview**
@@ -65,6 +65,10 @@ Surveys like the one that led to getting the dataset used in this project are no
 Seeing as to how the model was performing poorly at first continously, in the future, the data preprocessing processes need to be improved.
 
 From evaluating the distribution of H1N1 vaccine, it was established that only around 20% of the individuals had taken the vaccine. The public health organization in charge should look deeper into the reasons behind people not wanting to take the vaccine. It could be that they are not concerned enough, or do not have enough knowledge because it was established during EDA that with increase in levels of concern and knowledge about the vaccine by individuals, the higher the chances were of them taking the vaccine.
+
+**Non technical presentation**
+
+To access the slides click this link:https://docs.google.com/presentation/d/1hvIvPjwen362xPISGhyR19a439oqEjn-uNyU5bPuR1M/edit#slide=id.g1e59eaf4d4d_1_842
 
 
 

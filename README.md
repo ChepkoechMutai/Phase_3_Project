@@ -5,7 +5,19 @@
 
 **Overview**
 
-This project's aim is to build a model that predicts individuals' response to vaccines based on how they reacted to the H1N1 vaccine in 2010.The dataset used for this project was ontained from DrivenData and contains information on individual's characteristics ranging from level of concern to behaviour in their homes and large gatherings. The project covers the following sections: Business Understanding,Problem Statement,Objectives,Metrics of Success,Data Understanding,Data Preparation,Exploratory Data Analysis,Feature Engineering,Modeling,Feature Selection,Hyperparameter Tuning,Conclusion and Recommendation for Future Steps
+
+a.Business Understanding
+b.Problem Statement
+c.Objectives
+d.Metrics of Success
+e.Data Understanding
+f.Data Preparation
+g.Exploratory Data Analysis
+h.Feature Engineering
+i.Modeling
+j.Feature Selection
+k.Hyperparameter Tuning
+l.Conclusion and Recommendation for Future Steps
 
 **Introduction**
 
@@ -16,7 +28,6 @@ I will apply machine learning for this project because it will give the stakehol
 **Problem Statement**
 
 Vaccination has become a key public health measure that is used to fight and in most cases curb infectious diseases. Vaccines provide immunization for individuals and having a community participate in the process can further decrease the spread of diseases as a result of the concept of "herd immunity."
-
 The goal of this project is to build a model that can predict the response of individuals to a vaccine based on certain features, such as age, sex, health status, and their knowledge on H1N1 vaccine. This information can help healthcare professionals make informed decisions about who should receive the vaccine and how to best manage its administration.
 
 **Objectives**
@@ -66,9 +77,7 @@ Seeing as to how the model was performing poorly at first continously, in the fu
 
 From evaluating the distribution of H1N1 vaccine, it was established that only around 20% of the individuals had taken the vaccine. The public health organization in charge should look deeper into the reasons behind people not wanting to take the vaccine. It could be that they are not concerned enough, or do not have enough knowledge because it was established during EDA that with increase in levels of concern and knowledge about the vaccine by individuals, the higher the chances were of them taking the vaccine.
 
-**Non technical presentation**
 
-To access the slides click this link:https://docs.google.com/presentation/d/1hvIvPjwen362xPISGhyR19a439oqEjn-uNyU5bPuR1M/edit#slide=id.g1e59eaf4d4d_1_842
 
 
 

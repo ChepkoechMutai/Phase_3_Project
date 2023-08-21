@@ -6,29 +6,29 @@
 **Overview**
 
 
-a.Business Understanding
+* Business Understanding
 
-b.Problem Statement
+* Problem Statement
 
-c.Objectives
+* Objectives
 
-d.Metrics of Success
+* Metrics of Success
 
-e.Data Understanding
+* Data Understanding
 
-f.Data Preparation
+* Data Preparation
 
-g.Exploratory Data Analysis
+* Exploratory Data Analysis
 
-h.Feature Engineering
+* Feature Engineering
 
-i.Modeling
+* Modeling
 
-j.Feature Selection
+* Feature Selection
 
-k.Hyperparameter Tuning
+* Hyperparameter Tuning
 
-l.Conclusion and Recommendation for Future Steps
+* Conclusion and Recommendation for Future Steps
 
 **Introduction**
 
